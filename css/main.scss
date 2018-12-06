@@ -44,6 +44,20 @@ $theme-dark: #222;
 ;
 
 .column{
-        width: 50%;
+        width:50%;
         float: left;
+        text-align: left;
+        padding-bottom: 25px;
       }
+.resume-img{
+        max-height: 300px;
+}
+
+// div.resumerow div:nth-child(even){
+//         // background: #CCC;     
+//         float: left;
+// }
+
+// div.resumerow div:nth-child(odd){
+//         // background: rgb(161, 37, 37);
+//         float: right;     
